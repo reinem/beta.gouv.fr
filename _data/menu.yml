@@ -29,3 +29,6 @@ shortcuts:
     label: Espace Membre
     external: true
     url: https://espace-membre.incubateur.net
+  -
+    label: Agenda
+    target: _pages/agenda.md
